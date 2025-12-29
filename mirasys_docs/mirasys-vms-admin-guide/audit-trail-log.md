@@ -1,6 +1,6 @@
 # Audit trail log | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/audit-trail-log
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/audit-trail-log
 
 Audit trail log
 
@@ -8,7 +8,9 @@ The Audit trail log can be used to search VMS system user activity information. 
 
 Audit trail log
 
-In the audit trail log dialog admin can search for audit trail events using several search parameters. Results are listed in the result list ordered by time. Found audit trail events can be sorted by other audit trail event information by clicking the list headers.
+In the audit trail log dialog admin can search for audit trail events using several search parameters.
+
+Results are listed in the result list ordered by time. Found audit trail events can be sorted by other audit trail event information by clicking the list headers.
 
 Search parameters
 

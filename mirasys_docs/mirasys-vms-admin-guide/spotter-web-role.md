@@ -1,6 +1,6 @@
 # Spotter Web role | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/spotter-web-role
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/spotter-web-role
 
 Spotter Web role
 

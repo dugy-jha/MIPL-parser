@@ -1,6 +1,6 @@
 # Axis one-click dispatcher settings | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/axis-one-click-dispatcher-settings
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/axis-one-click-dispatcher-settings
 
 Axis one-click dispatcher settings
 Installation steps

@@ -1,6 +1,6 @@
 # Add values | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/add-values-1
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/add-values-1
 
 Add values
 

@@ -1,6 +1,6 @@
 # VMS Server roles | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/vms-server-roles-1
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/vms-server-roles-1
 
 VMS Server roles
 VMS Server role FAILOVER

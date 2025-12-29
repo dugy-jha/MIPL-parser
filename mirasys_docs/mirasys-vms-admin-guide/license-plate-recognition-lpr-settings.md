@@ -1,6 +1,6 @@
 # License Plate Recognition (LPR) settings | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/license-plate-recognition-lpr-settings
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/license-plate-recognition-lpr-settings
 
 License Plate Recognition (LPR) settings
 
@@ -91,6 +91,6 @@ Changing the camera by clicking on the Edit IP camera button on the Video tab i
 
 Pagination
 Previous page
-Object Blurring
+Scheduler
 Next page
 Face Recognition (FR) Settings

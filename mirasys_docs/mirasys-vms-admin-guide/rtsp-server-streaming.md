@@ -1,6 +1,6 @@
 # RTSP Server Streaming | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/rtsp-server-streaming
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/rtsp-server-streaming
 
 RTSP Server Streaming
 

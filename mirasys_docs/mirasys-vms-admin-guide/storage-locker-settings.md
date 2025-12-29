@@ -1,6 +1,6 @@
 # Storage Locker Settings | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/storage-locker-settings
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/storage-locker-settings
 
 Storage Locker Settings
 

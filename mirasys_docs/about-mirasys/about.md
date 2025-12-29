@@ -1,20 +1,21 @@
-# Introduction to Mirasys | Mirasys Help Center
+# About Mirasys | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/about-mirasys/about/about
+Source: https://documentation.mirasys.com/about-mirasys/about
 
+About Mirasys
+
+Thank you for choosing Mirasys
+
+Mirasys Documentation
 Introduction to Mirasys
-
-Thank you for choosing Mirasys as your trusted partner in video management solutions. We are committed to providing you with the best security technology available and the support you need to protect your organization effectively.
-
-Mirasys offers a comprehensive range of video management systems catering to various industries, including hospitals, arenas, casinos, and banks. Our solutions are designed to seamlessly integrate with existing security infrastructures while offering flexibility, scalability, and ease of use. We help our customers to secure their safety and operations by providing state-of-the-art video management and video analytics solutions.
-
-Our analytics are AI-based, rule-based, and based on analyzing video content. The AI-based analytics we offer are Mirasys License Plate Recognition, Face Recognition, List Management, Object Recognition, Person Search, and Similarity Search. We also offer AI-based analytics through a third-party software integration with VCA Core and the option to use camera-based AI analytics, such as ONVIF Profile M. The rule-based analytics available in our system is our Alarm search, Incident Report search, Storage Locker-based search, Camera audit, Watchdog and Monitoring, Audit Trail, Text data search, and Thumbnail search. Video content analytics is also available through our Motion search and VCA-based motion data.
-
-Explore our user documentation to learn more about our products and how they can enhance your security and surveillance capabilities. We are dedicated to offering innovative, user-friendly, and reliable products that meet the unique needs of various industries and environments.
-
-
-
-
-Pagination
-Next page
+Thank you for choosing Mirasys as your trusted partner in video management solutions. We are committed to providing you with the best security technology avail…
 Important notes
+Mirasys VMS V9 is only available as a 64-bit version. A V9 Master Server (Management Server) can handle 64-bit V8 and V9 servers. The "Full" Installer will aut…
+Mirasys VMS Applications
+VAU VAU (VMS Application Updater) is a service application without its own user interface. It is used to automatically update user applications to the latest v…
+Mirasys System Services
+SMServer SMServer (System Management Server) is the Master server service. SMServer is used to assign a server in the system as a Master that acts as the focal…
+Mirasys VMS System components
+System servers Servers are devices configured to perform tasks and play specialized roles for a networked system. These devices are usually desktop computers o…
+Glossary
+. .dhc The file format used to export and import information and settings for a remote user connection in the VMS A Alarm Alarms in our VMS are configured in t…

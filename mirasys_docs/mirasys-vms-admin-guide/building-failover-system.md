@@ -1,6 +1,6 @@
 # Building Failover system | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/building-failover-system
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/building-failover-system
 
 Building Failover system
 Starting point

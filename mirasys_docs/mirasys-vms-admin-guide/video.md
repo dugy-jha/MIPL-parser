@@ -1,6 +1,6 @@
 # Video | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/video
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/video
 
 Video
 

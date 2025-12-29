@@ -1,6 +1,6 @@
 # Single Server Behind Router | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/single-server-behind-router-1
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/single-server-behind-router-1
 
 Single Server Behind Router
 

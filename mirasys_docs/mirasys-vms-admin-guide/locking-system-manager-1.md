@@ -1,6 +1,6 @@
 # Locking System Manager | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/locking-system-manager-1
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/locking-system-manager-1
 
 Locking System Manager
 

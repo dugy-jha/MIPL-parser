@@ -1,18 +1,16 @@
 # Storage | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/storage
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/storage
 
 Storage
 
-In storage settings, you can set the storage time of the recorded video, audio, and text data and alarm data. Alarm and normal recordings can use different storage limits.
+In storage settings, you can set the storage time of the recorded video, audio and text data, and alarm data.
 
 In addition, after adding a hard disk to a server, you can set it as additional data storage through the storage settings.
 
 The storage settings are also used to configure the automatic archiving functionality, enabling the creation of backup copies of the server-specific video, audio, and text data daily or weekly.
 
 Video, audio, text data, and alarm recordings are kept until their defined Maximum date has been exceeded or until the allocated storage space has run out.
-
-Note: Alarm storage
 
 Adding Storage Space
 
@@ -200,6 +198,6 @@ Max OS cache setting is valid until PC reboot, so they are set each time recorde
 
 Pagination
 Previous page
-ONVIF Profile M Custom Alarm Triggers
+Alarms
 Next page
 Text Channels

@@ -1,6 +1,6 @@
 # Adding cameras by using CSV file | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/adding-cameras-by-using-csv-file
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/adding-cameras-by-using-csv-file
 
 Adding cameras by using CSV file
 

@@ -1,6 +1,6 @@
 # Face Recognition (FR) Settings | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/face-recognition-fr-settings
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/face-recognition-fr-settings
 
 Face Recognition (FR) Settings
 

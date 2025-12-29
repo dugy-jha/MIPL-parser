@@ -1,6 +1,6 @@
 # Device Settings | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/device-settings
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/device-settings
 
 Device Settings
 Edge Storage
@@ -31,6 +31,6 @@ Camera name, resolution and record rate can be set directly from the Video tab
 
 Pagination
 Previous page
-Audio Hardware
+Audio
 Next page
 Adding cameras by using CSV file

@@ -1,6 +1,6 @@
 # Object Blurring | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/object-blurring
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/object-blurring
 
 Object Blurring
 
@@ -50,4 +50,4 @@ Pagination
 Previous page
 Privacy zone on the client
 Next page
-License Plate Recognition (LPR) settings
+Scheduler

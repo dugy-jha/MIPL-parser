@@ -1,6 +1,6 @@
 # General | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/general-1
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/general-1
 
 General
 

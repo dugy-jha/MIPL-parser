@@ -1,6 +1,6 @@
 # Edit IP Camera | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/edit-ip-camera
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/edit-ip-camera
 
 Edit IP Camera
 

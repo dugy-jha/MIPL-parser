@@ -1,6 +1,6 @@
 # Disabling or Activating a User Account | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/disabling-or-activating-a-user-account-1
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/disabling-or-activating-a-user-account-1
 
 Disabling or Activating a User Account
 

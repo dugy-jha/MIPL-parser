@@ -1,6 +1,6 @@
 # General Settings tab | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/general-settings-tab-1
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/general-settings-tab-1
 
 General Settings tab
 

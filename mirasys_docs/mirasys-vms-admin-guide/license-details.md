@@ -1,6 +1,6 @@
 # License details | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/license-details
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/license-details
 
 License details
 

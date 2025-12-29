@@ -1,6 +1,6 @@
 # Management User Interface | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/management-user-interface
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/management-user-interface
 
 Management User Interface
 

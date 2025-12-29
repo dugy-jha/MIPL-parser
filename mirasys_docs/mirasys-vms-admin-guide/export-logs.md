@@ -1,6 +1,6 @@
 # Export logs | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/export-logs
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/export-logs
 
 Export logs
 

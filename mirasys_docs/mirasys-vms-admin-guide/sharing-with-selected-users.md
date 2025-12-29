@@ -1,6 +1,6 @@
 # Sharing with selected users | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/sharing-with-selected-users
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/sharing-with-selected-users
 
 Sharing with selected users
 Share bookmarks with specified users

@@ -1,6 +1,6 @@
 # Automatic Router Configuration | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/automatic-router-configuration-1
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/automatic-router-configuration-1
 
 Automatic Router Configuration
 

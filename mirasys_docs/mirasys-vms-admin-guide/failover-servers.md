@@ -1,6 +1,6 @@
 # Failover Servers | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/failover-servers
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/failover-servers
 
 Failover Servers
 

@@ -1,6 +1,6 @@
 # NewSonyIPCapture installation and usage | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/newsonyipcapture-installation-and-usage
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/newsonyipcapture-installation-and-usage
 
 NewSonyIPCapture installation and usage
 

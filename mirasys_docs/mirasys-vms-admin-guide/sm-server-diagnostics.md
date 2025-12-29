@@ -1,6 +1,6 @@
 # SM Server Diagnostics | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/sm-server-diagnostics
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/sm-server-diagnostics
 
 SM Server Diagnostics
 

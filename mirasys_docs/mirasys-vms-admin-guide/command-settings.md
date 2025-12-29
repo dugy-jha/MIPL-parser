@@ -1,6 +1,6 @@
 # Command Settings | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/command-settings
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/command-settings
 
 Command Settings
 

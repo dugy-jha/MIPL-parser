@@ -1,6 +1,6 @@
 # Moxa settings | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/moxa-settings
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/moxa-settings
 
 Moxa settings
 Enable Moxa PTZ editing

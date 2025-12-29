@@ -1,6 +1,6 @@
 # Mirasys Camera Drivers | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/mirasys-camera-drivers
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/mirasys-camera-drivers
 
 Mirasys Camera Drivers
 
@@ -112,11 +112,11 @@ Readme_OnvifIPCapture.txt
 
 	
 
-1.9.11.0
+1.9.9.0
 
 	
 
-15.11.2024
+04.09.2024
 
 
 
@@ -184,11 +184,11 @@ Readme_NewAxisIPCapture.txt
 
 	
 
-2.9.7.0
+2.9.6.2
 
 	
 
-28.10.2024
+27.03.2024
 
 
 

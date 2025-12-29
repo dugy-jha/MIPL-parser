@@ -1,6 +1,6 @@
 # The VMS Servers | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/the-vms-servers
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/the-vms-servers
 
 The VMS Servers
 

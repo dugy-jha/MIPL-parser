@@ -1,6 +1,6 @@
 # What is the Mirasys VMS software? | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/what-is-the-mirasys-vms-software
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/what-is-the-mirasys-vms-software
 
 What is the Mirasys VMS software?
 

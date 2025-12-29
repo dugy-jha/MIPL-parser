@@ -1,6 +1,6 @@
 # Main Server | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/master-server
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/master-server
 
 Main Server
 

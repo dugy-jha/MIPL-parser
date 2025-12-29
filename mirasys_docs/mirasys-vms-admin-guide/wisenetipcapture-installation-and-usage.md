@@ -1,6 +1,6 @@
 # WisenetIPCapture installation and usage | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/wisenetipcapture-installation-and-usage
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/wisenetipcapture-installation-and-usage
 
 WisenetIPCapture installation and usage
 

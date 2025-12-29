@@ -1,6 +1,6 @@
 # NewActiIPCapture installation and usage | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/newactiipcapture-installation-and-usage
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/newactiipcapture-installation-and-usage
 
 NewActiIPCapture installation and usage
 

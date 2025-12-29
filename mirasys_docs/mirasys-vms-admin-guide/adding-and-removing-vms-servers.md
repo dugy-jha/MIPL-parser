@@ -1,6 +1,6 @@
 # Adding and Removing VMS Servers | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/adding-and-removing-vms-servers
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/adding-and-removing-vms-servers
 
 Adding and Removing VMS Servers
 
@@ -56,4 +56,4 @@ Pagination
 Previous page
 Adding cameras by using CSV file
 Next page
-Search in VMS Server settings
+Cameras

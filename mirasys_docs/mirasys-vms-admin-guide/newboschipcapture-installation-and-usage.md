@@ -1,6 +1,6 @@
 # NewBoschIPCapture installation and usage | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/newboschipcapture-installation-and-usage
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/newboschipcapture-installation-and-usage
 
 NewBoschIPCapture installation and usage
 

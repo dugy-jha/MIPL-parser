@@ -1,6 +1,6 @@
 # IP Camera Finder | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/ip-camera-finder
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/ip-camera-finder
 
 IP Camera Finder
 

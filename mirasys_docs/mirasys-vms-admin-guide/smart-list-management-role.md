@@ -1,6 +1,6 @@
 # Smart List Management role | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/smart-list-management-role
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/smart-list-management-role
 
 Smart List Management role
 

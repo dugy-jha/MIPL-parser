@@ -1,6 +1,6 @@
 # Watchdog event list | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/watchdog-event-list
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/watchdog-event-list
 
 Watchdog event list
 Use table header to sort columns

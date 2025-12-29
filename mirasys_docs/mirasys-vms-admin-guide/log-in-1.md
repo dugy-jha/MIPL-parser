@@ -1,6 +1,6 @@
 # Log In | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/log-in-1
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/log-in-1
 
 Log In
 

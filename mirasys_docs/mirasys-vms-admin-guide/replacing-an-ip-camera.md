@@ -1,6 +1,6 @@
 # Replacing an IP camera | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/replacing-an-ip-camera
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/replacing-an-ip-camera
 
 Replacing an IP camera
 The user can replace an existing IP camera in the Mirasys VMS
@@ -34,4 +34,4 @@ Pagination
 Previous page
 Removing IP cameras and encoders
 Next page
-Audio Hardware
+Audio

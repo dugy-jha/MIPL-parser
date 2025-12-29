@@ -1,6 +1,6 @@
 # Configuring the System | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/configuring-the-system
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/configuring-the-system
 
 Configuring the System
 

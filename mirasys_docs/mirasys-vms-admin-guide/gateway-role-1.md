@@ -1,6 +1,6 @@
 # Gateway role | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/gateway-role-1
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/gateway-role-1
 
 Gateway role
 

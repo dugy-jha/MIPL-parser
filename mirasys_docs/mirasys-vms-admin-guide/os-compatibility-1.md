@@ -1,6 +1,6 @@
 # OS Compatibility | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/os-compatibility-1
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/os-compatibility-1
 
 OS Compatibility
 
@@ -155,32 +155,7 @@ X
 
 X
 
-
-
-
-Windows Server 2025
-
-	
-
--
-
-	
-
-X
-
-	
-
-X
-
-	
-
-X
-
-	
-
-X
-
-Make sure that the “Desktop Experience” and “Media Foundation” features are activated for Windows server operating systems.
+Make sure that the “Desktop Experience” and “Media Foundation” features is activated for Windows server operating systems.
 
 Pagination
 Previous page

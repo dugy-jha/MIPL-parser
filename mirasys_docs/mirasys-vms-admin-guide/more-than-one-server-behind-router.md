@@ -1,6 +1,6 @@
 # More Than One Server Behind Router | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/more-than-one-server-behind-router
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/more-than-one-server-behind-router
 
 More Than One Server Behind Router
 

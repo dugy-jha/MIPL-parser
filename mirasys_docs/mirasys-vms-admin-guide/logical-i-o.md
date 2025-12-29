@@ -1,6 +1,6 @@
 # Logical I/O | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/logical-i-o
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/logical-i-o
 
 Logical I/O
 

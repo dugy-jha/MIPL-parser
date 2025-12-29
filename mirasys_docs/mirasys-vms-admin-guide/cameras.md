@@ -1,6 +1,6 @@
 # Cameras | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/cameras
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/cameras
 
 Cameras
 
@@ -20,6 +20,6 @@ Scheduler
 
 Pagination
 Previous page
-Search in VMS Server settings
+Adding and Removing VMS Servers
 Next page
 Camera settings

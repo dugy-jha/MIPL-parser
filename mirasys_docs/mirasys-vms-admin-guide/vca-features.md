@@ -1,6 +1,6 @@
 # VCA features | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/vca-features
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/vca-features
 
 VCA features
 
@@ -26,6 +26,6 @@ Please note that the VCA features are only available if enabled through the lice
 
 Pagination
 Previous page
-Scheduler
+Editing a mask
 Next page
 Privacy

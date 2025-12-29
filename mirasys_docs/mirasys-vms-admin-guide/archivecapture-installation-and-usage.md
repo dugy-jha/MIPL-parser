@@ -1,6 +1,6 @@
 # ArchiveCapture installation and usage | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/archivecapture-installation-and-usage
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/archivecapture-installation-and-usage
 
 ArchiveCapture installation and usage
 

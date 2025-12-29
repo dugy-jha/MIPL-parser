@@ -1,8 +1,12 @@
-# Audio | Mirasys Help Center
+# Audio . | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/audio
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/audio
 
-Audio
+Audio .
+
+
+
+
 Pagination
 Previous page
 VCA settings

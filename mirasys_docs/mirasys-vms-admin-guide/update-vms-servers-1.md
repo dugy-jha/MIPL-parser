@@ -1,6 +1,6 @@
 # Update VMS Servers | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/update-vms-servers-1
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/update-vms-servers-1
 
 Update VMS Servers
 

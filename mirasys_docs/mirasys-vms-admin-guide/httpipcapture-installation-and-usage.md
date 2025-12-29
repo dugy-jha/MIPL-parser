@@ -1,6 +1,6 @@
 # HTTPIPCapture installation and usage | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/httpipcapture-installation-and-usage
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/httpipcapture-installation-and-usage
 
 HTTPIPCapture installation and usage
 

@@ -1,6 +1,6 @@
 # Monitoring role | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/monitoring-role
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/monitoring-role
 
 Monitoring role
 

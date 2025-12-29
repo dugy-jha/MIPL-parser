@@ -1,6 +1,6 @@
 # StanleyIPCapture installation and usage | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/stanleyipcapture-installation-and-usage
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/stanleyipcapture-installation-and-usage
 
 StanleyIPCapture installation and usage
 

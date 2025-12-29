@@ -1,6 +1,6 @@
 # Object Recognition (OR) Settings | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/object-recognition-or-settings
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/object-recognition-or-settings
 
 Object Recognition (OR) Settings
 

@@ -1,6 +1,6 @@
 # OnvifIPCapture installation and usage | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/onvifipcapture-installation-and-usage
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/onvifipcapture-installation-and-usage
 
 OnvifIPCapture installation and usage
 

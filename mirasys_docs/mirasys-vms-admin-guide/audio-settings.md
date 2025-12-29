@@ -1,6 +1,6 @@
 # Audio Settings | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/audio-settings
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/audio-settings
 
 Audio Settings
 

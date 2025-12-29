@@ -1,6 +1,6 @@
 # Active hours - User group access schedule | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/active-hours-user-group-access-schedule
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/active-hours-user-group-access-schedule
 
 Active hours - User group access schedule
 
@@ -23,6 +23,7 @@ To prevent access during certain hours:
 Select Inactive to the left of the weekly schedule.
 
 Click the hours the user group should not have access to Spotter (=Inactive).
+
 
 
 

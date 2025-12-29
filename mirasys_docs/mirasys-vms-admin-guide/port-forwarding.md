@@ -1,6 +1,6 @@
 # Port Forwarding | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/port-forwarding
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/port-forwarding
 
 Port Forwarding
 

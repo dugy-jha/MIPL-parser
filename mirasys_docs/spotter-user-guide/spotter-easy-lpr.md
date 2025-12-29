@@ -1,27 +1,11 @@
-# Spotter Easy LPR | Mirasys Help Center
+# Page not found
 
-Source: https://documentation.mirasys.com/spotter-user-guide/V-9.9/spotter-easy-lpr
+Source: https://documentation.mirasys.com/spotter-user-guide/V9.8/spotter-easy-lpr
 
-Spotter Easy LPR
+Page not found
 
-Easy LPR Spotter plugin can be opened from Plugins:
+Looks like this page doesn't exist. Search below or visit the home page of Mirasys Help Center.
 
-Easy LPR contains the following functionalities:
+Home page
 
-Live monitoring from the 1 camera at the same time
-
-The search of the number plates
-
-Lists Management
-
-Digital output controlling based on lists
-
-By default, the Easy LPR functionality is related to LPR camera-generated events. Events are saved into the VMS server database, which is used to search events in Spotter’s EasyLPR plugin.
-
-As an alternative, LPR camera-generated events can be used in the Smart LPR plugin and Smart List Management.
-
-Pagination
-Previous page
-Smart List Management
-Next page
-Spotter Easy LPR Live
+Search all

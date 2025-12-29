@@ -1,6 +1,6 @@
 # Multistreaming and TruCast for Network Optimization and Storage | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/multistreaming-and-trucast-for-network-optimizat-1
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/multistreaming-and-trucast-for-network-optimizat-1
 
 Multistreaming and TruCast for Network Optimization and Storage
 

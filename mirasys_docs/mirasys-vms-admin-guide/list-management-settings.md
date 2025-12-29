@@ -1,6 +1,6 @@
 # List Management settings | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/list-management-settings
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/list-management-settings
 
 List Management settings
 

@@ -1,6 +1,6 @@
 # Minimum requirements | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/minimum-requirements-1
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/minimum-requirements-1
 
 Minimum requirements
 

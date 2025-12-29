@@ -1,6 +1,6 @@
 # Network Optimization | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/network-optimization-1
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/network-optimization-1
 
 Network Optimization
 

@@ -1,20 +1,26 @@
-# Motion Detection Configuration | Mirasys Help Center
+# Editing a mask | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/editing-a-mask
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/editing-a-mask
 
-Motion Detection Configuration
+Editing a mask
 
-To access motion detection configuration in the System Manager, go to VMS Server Settings > Camera Settings > Motion Detection.
+In the Motion Detection tab, select the camera from the camera list.
 
-Select the camera in the Camera drop-down menu.
+Click the mask that you want to edit.
 
-Under Mask settings, select the mask you want to configure.
-You can change the name of the mask. Click Change Mask Name and type a new name for the mask.
-Please note that the Default mask configuration cannot be changed.
+To change the mask's name, click Change Mask Name and type a new name for the mask.
 
-Draw the mask on top of the image to select for which area the motion detection feed will be calculated. Use the drawing tools to the right of the view, and with the drawing tools you, paint the areas red where you want the system to detect motion and you remove the red from areas where you want to ignore motion. 
+With the drawing tools presented in the following table, paint the areas red where you want the system to detect movement and remove the red from areas where you want to ignore the movement. 
 
-Drawing Tools
+Set the detection sensitivity. 
+
+Set the minimum quantity of movement.
+
+Select the motion detection method: comparative, adaptive, or hermeneutic motion detection.
+
+Detected motion is shown in red in the image, and the counter increments each time motion is detected.
+
+Drawing Tools:
 
 Tool
 
@@ -110,42 +116,11 @@ Tool Size
 
 Click one of the buttons to select the size of the pencil or eraser (large, medium, small).
 
-Set the detection sensitivity by using the slider.
 
-Set the minimum quantity of motion by using the slider.
 
-Select the motion detection method. You can select comparative, adaptive, or hermeneutic motion detection. For a more in-depth description of these options please see the previous page.
-
-Select either to use the default value for Motion detection frame rate, or use the slider.
-
-Select the Motion detection platform, either only the VMS Server or the VMS Server and camera hardware.
-
-Once the configuration is finalized, the motion detection masks must be taken into use by using the scheduler. To access motion detection configuration in the System Manager, go to VMS Server Settings > Camera Settings > Scheduler. Please see the next document for instructions on how to use the Scheduler.
-
-Counter
-
-To test motion detection, you can use the counter. When you enable the counter, the video will be streamed from the camera and the motion detection is calculated. The result of the motion detection is shown on top of the image. The counter values increases everytime motion is detected, based on your configuration.
-
-To use the Counter:
-
-Enable Counter
-
-Check the motion values
-
-The camera image shows which area of the camera image causes motion detection recording
-
-Pre- and Post- recording time
-
-If you want recorded material before and after the motion, use Motion ​​pre- and post-recording.
-
-Each mask can be configured separately.
-
-Values are from 0s to 60 minutes.
-
-You can copy selected values to the all cameras using button Copy pre-and post recording time for all cameras.
 
 Pagination
 Previous page
 Motion Detection
 Next page
-Scheduler
+VCA features

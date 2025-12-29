@@ -1,6 +1,6 @@
 # Add device | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/add-device
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/add-device
 
 Add device
 

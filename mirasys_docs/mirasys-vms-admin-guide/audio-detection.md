@@ -1,6 +1,6 @@
 # Audio Detection | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/audio-detection
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/audio-detection
 
 Audio Detection
 

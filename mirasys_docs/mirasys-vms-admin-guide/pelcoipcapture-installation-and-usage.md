@@ -1,6 +1,6 @@
 # PelcoIPCapture installation and usage | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/pelcoipcapture-installation-and-usage
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/pelcoipcapture-installation-and-usage
 
 PelcoIPCapture installation and usage
 

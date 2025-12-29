@@ -1,6 +1,6 @@
 # NewIQEyeIPCapture installation and usage | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/newiqeyeipcapture-installation-and-usage
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/newiqeyeipcapture-installation-and-usage
 
 NewIQEyeIPCapture installation and usage
 

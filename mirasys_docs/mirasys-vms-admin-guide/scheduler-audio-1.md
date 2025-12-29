@@ -1,6 +1,6 @@
 # Scheduler (Audio) | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/scheduler-audio-1
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/scheduler-audio-1
 
 Scheduler (Audio)
 

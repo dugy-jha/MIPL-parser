@@ -1,6 +1,6 @@
 # Removing IP cameras and encoders | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/removing-ip-cameras-and-encoders
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/removing-ip-cameras-and-encoders
 
 Removing IP cameras and encoders
 

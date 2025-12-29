@@ -1,6 +1,6 @@
 # Multi-Streaming | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/multi-streaming
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/multi-streaming
 
 Multi-Streaming
 

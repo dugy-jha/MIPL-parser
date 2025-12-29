@@ -1,6 +1,6 @@
 # Mirasys Spotter Enterprise role | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/mirasys-spotter-enterprise-role-1
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/mirasys-spotter-enterprise-role-1
 
 Mirasys Spotter Enterprise role
 

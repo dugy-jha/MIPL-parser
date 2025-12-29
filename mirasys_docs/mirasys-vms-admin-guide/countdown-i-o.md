@@ -1,6 +1,6 @@
 # Countdown I/O | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/countdown-i-o
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/countdown-i-o
 
 Countdown I/O
 

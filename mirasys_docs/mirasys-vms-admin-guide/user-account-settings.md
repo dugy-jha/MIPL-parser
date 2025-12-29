@@ -1,6 +1,6 @@
 # User account settings | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/user-account-settings
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/user-account-settings
 
 User account settings
 User account settings contain the following options:

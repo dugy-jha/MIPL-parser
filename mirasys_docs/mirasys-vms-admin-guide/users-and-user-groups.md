@@ -1,6 +1,6 @@
 # Users and User groups | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/users-and-user-groups
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/users-and-user-groups
 
 Users and User groups
 
@@ -79,6 +79,6 @@ Description
 
 Pagination
 Previous page
-Maps profile settings
+PTZ camera profile settings
 Next page
 User group

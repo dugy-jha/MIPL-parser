@@ -1,6 +1,6 @@
 # Adding, Editing and Removing Audio Devices | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/adding-editing-and-removing-audio-devices
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/adding-editing-and-removing-audio-devices
 
 Adding, Editing and Removing Audio Devices
 
@@ -60,6 +60,6 @@ The last audio device on the list is removed from the server.
 
 Pagination
 Previous page
-Audio
+Audio .
 Next page
 Audio Settings

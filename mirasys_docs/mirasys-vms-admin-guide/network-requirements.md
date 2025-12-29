@@ -1,6 +1,6 @@
 # Network Requirements | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/network-requirements
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/network-requirements
 
 Network Requirements
 

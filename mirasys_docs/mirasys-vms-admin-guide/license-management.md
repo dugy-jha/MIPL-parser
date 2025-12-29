@@ -1,6 +1,6 @@
 # License Management | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/license-management
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/license-management
 
 License Management
 To import a license key:

@@ -1,6 +1,6 @@
 # Install client plugin | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/install-client-plugin
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/install-client-plugin
 
 Install client plugin
 

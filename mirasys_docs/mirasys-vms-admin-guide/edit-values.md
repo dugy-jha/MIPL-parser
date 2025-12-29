@@ -1,6 +1,6 @@
 # Edit values | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/edit-values
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/edit-values
 
 Edit values
 

@@ -1,6 +1,6 @@
 # More Than One Server On Multiple Sites | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/more-than-one-server-on-multiple-sites
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/more-than-one-server-on-multiple-sites
 
 More Than One Server On Multiple Sites
 

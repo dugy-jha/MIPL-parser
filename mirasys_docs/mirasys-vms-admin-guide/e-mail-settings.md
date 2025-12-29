@@ -1,6 +1,6 @@
 # E-Mail Settings | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/e-mail-settings
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/e-mail-settings
 
 E-Mail Settings
 

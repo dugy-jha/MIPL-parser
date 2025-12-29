@@ -1,6 +1,6 @@
 # Advanced | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/advanced
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/advanced
 
 Advanced
 

@@ -1,6 +1,6 @@
 # VCA settings | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/vca-settings-1
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/vca-settings-1
 
 VCA settings
 
@@ -17,4 +17,4 @@ Pagination
 Previous page
 Object Recognition (OR) Settings
 Next page
-Audio
+Audio .

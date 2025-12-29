@@ -1,6 +1,6 @@
 # Hardware | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/hardware-1
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/hardware-1
 
 Hardware
 

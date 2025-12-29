@@ -1,9 +1,8 @@
 # Domain Based User Groups (Active Directory) | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/domain-based-user-groups-ldap
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/domain-based-user-groups-ldap
 
 Domain Based User Groups (Active Directory)
-Domain Based User Groups (LDAP)
 
 The system supports domain-level user rights integration (Microsoft Active Directory, LDAP), enabling users to be synchronized from domain groups.
 
@@ -26,17 +25,17 @@ Type the name of the domain into the Domain name dialogue box.
 Select whether to get all user groups or to search for specific groups.
 If you want to search specific groups by name, you can add a search criterion based on the text string being equal to the group name, contained in the group name, or the group name starting or ending in the text string.
 
-4. Select whether to skip or include open user groups.
+Select whether to skip or include open user groups.
 
-5. Select whether to clear or keep previous search results.
+Select whether to clear or keep previous search results.
 
-6. Enable Use secure(SSL) connection. If needed
+Enable Use secure(SSL) connection. If needed
 
-7. Click Ok.
+Click Ok.
 
-8. In the Import user groups window, select the user groups you wish to import from the domain.
+In the Import user groups window, select the user groups you wish to import from the domain.
 
-9. Click Ok to import the selected groups.
+Click Ok to import the selected groups.
 
 10. Edit the imported user groups to set their user roles as instructed below.
 

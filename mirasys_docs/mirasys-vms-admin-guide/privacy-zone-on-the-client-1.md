@@ -1,6 +1,6 @@
 # Privacy zone on the client | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/privacy-zone-on-the-client-1
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/privacy-zone-on-the-client-1
 
 Privacy zone on the client
 

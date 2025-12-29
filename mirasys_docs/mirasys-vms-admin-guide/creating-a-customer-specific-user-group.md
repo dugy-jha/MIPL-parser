@@ -1,6 +1,6 @@
 # Creating a customer-specific User Group | Mirasys Help Center
 
-Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.9/creating-a-customer-specific-user-group
+Source: https://documentation.mirasys.com/mirasys-vms-admin-guide/V9.8/creating-a-customer-specific-user-group
 
 Creating a customer-specific User Group
 
