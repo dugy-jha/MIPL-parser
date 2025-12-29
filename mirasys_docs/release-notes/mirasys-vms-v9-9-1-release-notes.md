@@ -1,0 +1,147 @@
+# Mirasys VMS V9.9.1.2 release notes | Mirasys Help Center
+
+Source: https://documentation.mirasys.com/release-notes/releasenotes/mirasys-vms-v9-9-1-release-notes
+
+Mirasys VMS V9.9.1.2 release notes
+Release date: 17.12.2024
+Enhancements
+PTZ Control for Spotter Web Mobile
+
+We have added PTZ (Pan-Tilt-Zoom) control to Spotter Web Mobile, allowing you to control PTZ-enabled cameras directly from the browser-based app. Simply select a PTZ camera to adjust zoom, focus, and iris, and use existing presets or tours for enhanced surveillance management.
+
+Windows Server 2025 support
+
+Mirasys VMS was tested to work in Windows Server 2025.
+
+VCA Core update to V2.2.5
+
+Mirasys VMS was updated to use the VCA Core V2.2.5.
+
+Spotter profile tree optimization
+
+Spotter profile tree loading was optimized to load large profiles faster.
+
+Fixes
+Spotter
+
+Export parameters are passed to the Media Exporter as intended.
+
+Clip and storyboard export in Spotter works as intended when the exported file name contains trailing spaces.
+
+Bookmark selection in the Spotter profile tree works by using the space key.
+
+Disabling the activity data calculation in Spotter settings works as intended for devices and alarms.
+
+Changes to the identity settings are immediately taken into use in the Smart Recognition plugin.
+
+The list management data is updated correctly in the List Management plugin when the data is changed in another application.
+
+Image conversion works as intended when the video stream is changed.
+
+A list of profiles is visible when the profile is empty.
+
+Media Exporter
+
+MP4 export with time stamps memory usage is working as intended.
+
+Media Exporter uses the Mirasys Enterprise theme as intended.
+
+Spotter Web
+
+The login page uses the correct language after the language change in Spotter Web Mobile.
+
+Main menu texts are translated to all supported languages in Spotter Web Mobile.
+
+Logs and audit logs are written to separate log files.
+
+Spotter Web backend returns the correct response in case of an invalid session.
+
+Session tokens are refreshed every minute to avoid the session expiring on Spotter Web.
+
+Spotter Web PTZ control for zoom, iris, and focus works as intended.
+
+Profile loading works as intended on the first login on Android.
+
+SpotterWeb installer works without the .Net framework 3.5.
+
+System Manager
+
+The VMS Server disk state is shown correctly in System Manager storage settings when the disk state is changed on the VMS Server side.
+
+The VMS server search in the System Manager works as intended.
+
+Changing the tabs in the VMS server camera settings doesn't change the selected camera channel.
+
+Changing stream settings for LPR, FR, or OR works as intended.
+
+When multiple streaming is enabled for the camera, switching between the RTSP Server tab and the camera list tab works as intended.
+
+Cameras using AI services are managed correctly in System Manager camera settings.
+
+VMS server search in the System Manager works as intended.
+
+VMS Server
+
+Watchdog service doesn’t restart the VMS service if the VMS service storage disk connection is lost.
+
+The audio channels are handled correctly when the VMS server has multiple cameras configured with audio channels.
+
+JPEG streaming from the RTSP server works as intended.
+
+Alarm Triggering API documentation contains the correct example of removing an alarm trigger.
+
+Alarm triggering through the API works as intended.
+
+The output channel returns to the normal state when all assigned alarms are completed.
+
+Exports contain all the materials from the selected time range.
+
+The VCA Core service started without errors when the camera was added for the first time after the VMS clean installation.
+
+System
+
+When an alarm is deleted from a local system, it is automatically removed from all profiles on the main server.
+
+The VMS installer stops and shows an error in case of a file copy error.
+
+Client sessions are handled correctly in the main server.
+
+The AI service settings are synchronized in the system and the AI services after the settings are restored.
+
+Settings backup including AI service settings can be restored to another PC where the same AI services are installed.
+
+Camera settings on the VMS server and AI services are synchronized even when the settings are updated separately.
+
+List Management and Object Data Store services registrations work as intended on the SMServer.
+
+List Management
+
+The List Management service installer checks if an old version of RabbitMQ has already been installed and requests that it be uninstalled.
+
+Object Data Store
+
+The Object Data Store service installer checks if an old version of RabbitMQ has already been installed and requests that it be uninstalled.
+
+Gateway SDK
+
+Compiling Gateway SDK source codes works as intended.
+
+Gateway SDK documentation is rewritten.
+
+Drivers
+ONVIF
+
+The spamming of the log messages generated by the driver has been reduced.
+
+Privacy masks do not disappear when the user changes the stream type in the Spotter.
+
+
+
+
+You can download the release notes as a PDF file here Mirasys VMS V9.9.1.2 Release Notes.pdf .
+
+Pagination
+Previous page
+Mirasys VMS V9.9.2 release notes
+Next page
+Mirasys VMS V9.9.0 release notes
